@@ -67,6 +67,8 @@
 
 ### 阶段 1：屈膝前水平（Tuck Front Lever）
 
+![Front Lever](./images/front-lever-tuck.png)
+
 **进阶标准**
 
 * 3 组 × ≥10 秒
@@ -82,6 +84,8 @@
 ---
 
 ### 阶段 2：高级屈膝（Advanced Tuck）
+
+![Front Lever](./images/front-lever-advanced-tuck.png)
 
 这是最容易卡住的阶段。
 
@@ -101,6 +105,10 @@
 ---
 
 ### 阶段 3：单腿 / 分腿前水平
+
+![Front Lever](./images/front-lever-single-leg.png)
+
+![Front Lever](./images/front-lever-splited-legs.jpeg)
 
 **建议**
 
